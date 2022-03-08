@@ -38,7 +38,7 @@ class M3U:
         header = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36'
         m3u_parser = M3uParser(timeout=5, useragent=header)
         m3u_parser.parse_m3u(self.m3u_url)
-        m3u_parser.filter_by('status', 'GOOD')
+#         m3u_parser.filter_by('status', 'GOOD')
         m3u_parser.remove_by_extension(['flv','mp4'])
         m3u_parser.sort_by('name')
         # print(m3u_parser.get_list())
