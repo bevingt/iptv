@@ -2,7 +2,7 @@ name: update_m3u
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '2 16 * * *'
 jobs:
