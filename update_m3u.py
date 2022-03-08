@@ -43,7 +43,7 @@ class M3U:
         m3u_parser.sort_by('name')
         # print(m3u_parser.get_list())
         print(len(m3u_parser.get_list()))
-        m3u_parser.to_file('script/iptv_cn.json')
+        m3u_parser.to_file('./script/iptv_cn.json')
 
     def screening(self):
         '''
@@ -52,7 +52,7 @@ class M3U:
         补充EPG对应ID
         '''
         logo = self.logo_data
-        with open('script/iptv_cn.json', 'r') as jf:
+        with open('./script/iptv_cn.json', 'r') as jf:
             file = json.loads(jf.read())
         heigh_1080 = [i for i in file if '1080' in i['name'] or '720' in i['name']]
         for heigh in heigh_1080:
