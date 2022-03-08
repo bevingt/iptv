@@ -6,7 +6,7 @@ import re
 import logging
 from urllib import request
 import time
-import os
+# import os
 
 class M3U:
 
