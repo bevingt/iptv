@@ -132,6 +132,7 @@ class M3U:
                     f'{key[2]}="{i[key[2]]}" '+f'{key[3]}="{i[key[3]]}",' + \
                     f'{i[key[4]]}'+'\n'+f'{i[key[5]]}'+'\n'
                 fw.write(line)
+        print(len(self.classifies))
         logging.info('Saved to file: TV.m3u')
 
     def __call__(self):
