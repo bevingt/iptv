@@ -6,7 +6,7 @@ import re
 import logging
 from urllib import request
 import time
-# import os
+import asyncio
 
 class M3U:
 
@@ -83,10 +83,18 @@ class M3U:
         for key in self.group_keys:
             if key in tv_name:
                 return key
+            
+    async def classify(self):
+        task=[asyncio.create_task(self.check(i)) for i in self.screen]
+        await asyncio.gather(*task)
+        self.classifies = sorted(self.m3u_list, key=itemgetter('group-title'))
+        logging.info('classify... Done!')
 
-    def classify(self):
-        for i in self.screen:
-            temp = {
+    async def check(self, i):
+        '''
+        连通性检测
+        '''
+        temp = {
             'tvg-id': '',
             'tvg-name': i['tvg']['id'],
             'tvg-logo': i['logo'],
@@ -94,31 +102,23 @@ class M3U:
             'name': i['name'],
             'url': i['url']
             }
-            if self.check(temp['name'],temp['url']):
-                self.m3u_list.append(temp)
-        self.classifies = sorted(self.m3u_list, key=itemgetter('group-title'))
-        logging.info('classify... Done!')
-
-    def check(self, name, url):
-        '''
-        连通性检测
-        '''
         try:
             startTime = int(round(time.time() * 1000))
-            with request.urlopen(url, timeout=2) as ts:
+            with request.urlopen(temp['url'], timeout=2) as ts:
                 if ts.status == 200:
                     endTime = int(round(time.time() * 1000))
                     useTime = endTime - startTime
                     logging.info(
-                        f'Checking: {name}, {url},\033[0;37;42m Online \033[0m  {str(ts.status)} {useTime}s')
+                        f"Checking: {temp['name']}, {temp['url']},\033[0;37;42m Online \033[0m  {str(ts.status)} {useTime}s")
+                    self.m3u_list.append(temp)
                     return True
                 else:
                     logging.warning(
-                        f'Checking: {name}, {url},\033[0;31;43m Timeout \033[0m {str(ts.status)}')
+                        f"Checking: {temp['name']}, {temp['url']},\033[0;31;43m Timeout \033[0m {str(ts.status)}")
                     return False
         except:
             logging.error(
-                f'Checking: {name}, {url}, \033[0;37;41m Error \033[0m')
+                f"Checking: {temp['name']}, {temp['url']}, \033[0;37;41m Error \033[0m")
             return False
             
 
@@ -139,9 +139,9 @@ class M3U:
         self.m3u_check()
         self.get_logo()
         self.screening()
-        self.classify()
+        asyncio.run(self.classify())
         self.to_m3u()
-#         os.remove('cn.json')
+
 
 if __name__ == "__main__":
     m3u_url = 'https://iptv-org.github.io/iptv/countries/cn.m3u'
