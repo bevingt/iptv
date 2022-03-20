@@ -56,26 +56,30 @@ class M3U:
             file = json.loads(jf.read())
         heigh_1080 = [i for i in file if '1080' in i['name'] or '720' in i['name']]
         for heigh in heigh_1080:
-            if '-' in heigh['name']:
-                tv_name = re.findall(
-                    '(.*?)\s\(.*?\)', heigh['name'].replace('-', ''))[0]
-            else:
-                tv_name=re.findall('(.*?)\s\(.*?\)', heigh['name'])[0]
+#             if '-' in heigh['name']:
+#                 tv_name = re.findall(
+#                     '(.*?)\s\(.*?\)', heigh['name'].replace('-', ''))[0]
+#             else:
+            tv_name=re.findall('(.*?)\s\(.*?\)', heigh['name'])[0]
+            if 'CCTV' in tv_name:
+                cctv = re.match('cctv-[\d+]*', tv_name, re.I)
+                tv_name = cctv.group()
             for lg in logo.keys():
-                if lg == tv_name:
+                if lg == tv_name  or (lg in tv_name and lg != 'NewTV' and 'CCTV' not in tv_name):
+#                 if lg == tv_name:
                     heigh['logo'] = logo[lg]
                     heigh['tvg']['id'] = lg
-                    heigh['name'] = lg
-                    if self.grouping(tv_name):
-                        heigh['group-title'] = self.grouping(tv_name)
-                    else:
-                        heigh['group-title'] = '其它'
+                    heigh['name'] = tv_name
+#                     if self.grouping(tv_name):
+#                         heigh['group-title'] = self.grouping(tv_name)
+#                     else:
+#                         heigh['group-title'] = '其它'
                     break
-                else:
-                    if self.grouping(tv_name):
-                        heigh['group-title'] = self.grouping(tv_name)
-                    else:
-                        heigh['group-title'] = '其它'                    
+#                 else:
+            if self.grouping(tv_name):
+                heigh['group-title'] = self.grouping(tv_name)
+            else:
+                heigh['group-title'] = '其它'                    
         self.screen = heigh_1080
         logging.info('Screening... Done!')
 
