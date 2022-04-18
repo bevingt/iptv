@@ -6,7 +6,7 @@ import re
 import logging
 from urllib import request
 import time
-import asyncio
+# import asyncio
 
 class M3U:
 
@@ -88,13 +88,15 @@ class M3U:
             if key in tv_name:
                 return key
             
-    async def classify(self):
-        task=[asyncio.create_task(self.check(i)) for i in self.screen]
-        await asyncio.gather(*task)
+    def classify(self):
+#         task=[asyncio.create_task(self.check(i)) for i in self.screen]
+#         await asyncio.gather(*task)
+        for i in self.screen:
+            self.check(i)
         self.classifies = sorted(self.m3u_list, key=itemgetter('group-title'))
         logging.info('classify... Done!')
 
-    async def check(self, i):
+    def check(self, i):
         '''
         连通性检测
         '''
@@ -143,7 +145,8 @@ class M3U:
         self.m3u_check()
         self.get_logo()
         self.screening()
-        asyncio.run(self.classify())
+        self.classify()
+#         asyncio.run(self.classify())
         self.to_m3u()
 
 
