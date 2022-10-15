@@ -5,6 +5,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-12" tvg-logo="https://iptv-pro.github.io/logo/CCTV-12.png" group-title="CCTV",CCTV-12
 http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-13" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="CCTV",CCTV-13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="CCTV",CCTV-17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="CCTV",CCTV-1
@@ -15,6 +17,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
 http://117.169.120.140:8080/live/cctv-4/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
+http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
 http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
@@ -31,6 +35,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9" tvg-logo="https://iptv-pro.github.io/logo/CCTV-9.png" group-title="CCTV",CCTV-9
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品電影 (1080p)
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png" group-title="NewTV",NewTV超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="其它",BBC News HD (720p) [Geo-blocked]
@@ -47,10 +53,6 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://iptv-pro.github.io/logo/CNA.png" group-title="其它",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNC" tvg-logo="https://iptv-pro.github.io/logo/CNC.png" group-title="其它",CNC中文
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNC" tvg-logo="https://iptv-pro.github.io/logo/CNC.png" group-title="其它",CNC英语
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="其它",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="其它",Insight TV (1080p)
@@ -61,8 +63,6 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="其它",NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://iptv-pro.github.io/logo/Euronews.png" group-title="其它",Pluto TV Euronews
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://iptv-pro.github.io/logo/RT.png" group-title="其它",RT Documentary Russian
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="其它",Red Bull TV (1080p)
@@ -75,7 +75,7 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBRICSChinese.cn" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="其它",TV BRICS Chinese (1080p) [Not 24/7]
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="其它",World Fashion Channel International (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="其它",World Fashion Channel International (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="其它",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
@@ -110,9 +110,9 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",侨乡 (1080p)
 http://stream.jinjiang.tv/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",半岛新闻 (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华数" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%8E%E6%95%B0.png" group-title="其它",华数
@@ -149,8 +149,6 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 http://61.244.22.5/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",娄底综合 (720p)
 http://119.39.242.52:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",孟州电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",嵊州综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",广东 ‖ 清新综合台 (1080p)
@@ -159,6 +157,8 @@ http://hls.wiseqx.com/live/qxzh.m3u8
 https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",建安电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",张家口一套 (720p) [Not 24/7]
 http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",张家港新闻综合 (720p)
@@ -231,8 +231,6 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",蕭山生活頻道 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",衡水新闻综合 (720p) [Not 24/7]
-http://hls.hsrtv.cn/hls/hstv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",西安新闻 (1080p) [Not 24/7]
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",西青新闻综合 (1080p) [Not 24/7]
@@ -250,39 +248,37 @@ http://117.169.120.140:8080/live/dongnanstv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",东南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",东方卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",东方卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",东方卫视
 http://183.207.249.7/PLTV/4/224/3221227396/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
-http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
+http://183.207.249.8/PLTV/3/224/3221225574/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视",天津卫视
 http://117.169.120.140:8080/live/hdtianjinstv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视",天津卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视",天津卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视",天津卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
-http://117.169.120.140:8080/live/hdshandongstv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
+http://117.169.120.140:8080/live/hdshandongstv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",广东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",广东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",延边卫视
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
 http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
@@ -296,13 +292,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
+http://183.207.249.11/PLTV/3/224/3221225536/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
 http://117.169.120.140:8080/live/jiangxistv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
-http://183.207.249.34/PLTV/4/224/3221227393/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",海南卫视
@@ -312,15 +308,15 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳" tvg-logo="https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3.png" group-title="卫视",深圳卫视
 http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳" tvg-logo="https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3.png" group-title="卫视",深圳卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="深圳" tvg-logo="https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3.png" group-title="卫视",深圳卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳" tvg-logo="https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3.png" group-title="卫视",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视
 http://117.169.120.140:8080/live/hdhubeistv/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖南卫视
@@ -334,9 +330,11 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://iptv-pro.github.io/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",重庆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",黑龙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",黑龙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视",黑龙江卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+http://183.207.249.36/PLTV/4/224/3221227323/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江 Ⅰ 浙江休闲 (720p) [Not 24/7]
 http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png" group-title="浙江",浙江 Ⅰ 浙江国际
