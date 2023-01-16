@@ -10,7 +10,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="CCTV",CCTV-17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="CCTV",CCTV-1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="CCTV",CCTV-2
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-3" tvg-logo="https://iptv-pro.github.io/logo/CCTV-3.png" group-title="CCTV",CCTV-3
@@ -22,7 +22,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
-http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="CCTV",CCTV-5+
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="CCTV",CCTV-5
@@ -35,12 +35,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9" tvg-logo="https://iptv-pro.github.io/logo/CCTV-9.png" group-title="CCTV",CCTV-9
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品電影 (1080p)
-http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png" group-title="NewTV",NewTV超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png" group-title="其它",Al Jazeera English
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BahrainInternational.bh" tvg-logo="https://i.imgur.com/t6Lmntr.png" group-title="其它",Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeritaSatuWorld.id" tvg-logo="https://i.imgur.com/gHBxpyc.png" group-title="其它",BeritaSatu World (720p) [Not 24/7]
@@ -61,6 +57,8 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIGHT SPORTS" tvg-logo="https://iptv-pro.github.io/logo/FIGHT%20SPORTS.png" group-title="其它",FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FTVTaiwan.tw" tvg-logo="https://i.imgur.com/p108I5g.png" group-title="其它",FTV Taiwan (民視台灣台) (720p)
+http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?ct=19226&tid=MDFD8196635981966359&tsum=b82639ac8b4590b4206effe348e2f9c2
 #EXTINF:-1 tvg-id="" tvg-name="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="其它",Insight TV (1080p)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAVTVSelect.us" tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="其它",MavTV Select (720p)
@@ -90,9 +88,9 @@ http://stream.smntv.cn/smtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",三明新闻综合 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上海这一刻魔都眼 (720p) [Not 24/7]
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上虞1新闻综合 (720p) [Not 24/7]
@@ -151,6 +149,8 @@ http://218.204.153.158/10.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",娄底综合 (720p)
 http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",孟州电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",嵊州综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",广东 ‖ 清新综合台 (1080p)
@@ -163,8 +163,10 @@ https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/
 http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",张家口一套 (720p) [Not 24/7]
 http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",徐州-4 (1080p)
-http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",徐州-1 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",徐州-3 (1080p)
+http://183.207.249.7/PLTV/3/224/3221225949/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",徐州公共頻道 (1080p)
 http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",文山综合 (1080p) [Not 24/7]
@@ -173,8 +175,6 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/play
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",新昌新聞綜合 (1080p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",新郑综合 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",晋中公共 (1080p) [Not 24/7]
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",晋中综合 (1080p)
