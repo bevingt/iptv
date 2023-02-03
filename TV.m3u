@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/iptv-pro/iptv-pro.github.io@main/epg/epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-10" tvg-logo="https://iptv-pro.github.io/logo/CCTV-10.png" group-title="CCTV",CCTV-10
-http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-11" tvg-logo="https://iptv-pro.github.io/logo/CCTV-11.png" group-title="CCTV",CCTV-11
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-12" tvg-logo="https://iptv-pro.github.io/logo/CCTV-12.png" group-title="CCTV",CCTV-12
@@ -33,6 +31,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9" tvg-logo="https://iptv-pro.github.io/logo/CCTV-9.png" group-title="CCTV",CCTV-9
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品電影 (1080p)
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png" group-title="NewTV",NewTV超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20TV.png" group-title="其它",Bloomberg TV Asia Live Event
@@ -48,9 +48,9 @@ http://stream.smntv.cn/smtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",三明新闻综合 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上虞1新闻综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上虞3新商都 (720p) [Not 24/7]
@@ -71,8 +71,6 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",半岛新闻 (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="华数" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%8E%E6%95%B0.png" group-title="其它",华数
@@ -119,8 +117,8 @@ https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",建安电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",徐州-4 (1080p)
-http://183.207.249.15/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",徐州-1 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",徐州公共頻道 (1080p)
 http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",文山综合 (1080p) [Not 24/7]
@@ -151,8 +149,6 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",纪实人文 (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",罗山电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="狗狗宠物" tvg-logo="https://iptv-pro.github.io/logo/%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png" group-title="其它",美国狗狗宠物
 https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",萧山新闻综合 (720p) [Not 24/7]
