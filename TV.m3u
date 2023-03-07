@@ -3,12 +3,8 @@
 http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-11" tvg-logo="https://iptv-pro.github.io/logo/CCTV-11.png" group-title="CCTV",CCTV-11
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-12" tvg-logo="https://iptv-pro.github.io/logo/CCTV-12.png" group-title="CCTV",CCTV-12
-http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-13" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="CCTV",CCTV-13
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="CCTV",CCTV-17
-http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="CCTV",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="CCTV",CCTV-2
@@ -16,9 +12,9 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-3" tvg-logo="https://iptv-pro.github.io/logo/CCTV-3.png" group-title="CCTV",CCTV-3
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
-http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="CCTV",CCTV-5+
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="CCTV",CCTV-5
@@ -27,8 +23,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="https://iptv-pro.github.io/logo/CCTV-7.png" group-title="CCTV",CCTV-7
 http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-8" tvg-logo="https://iptv-pro.github.io/logo/CCTV-8.png" group-title="CCTV",CCTV-8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9" tvg-logo="https://iptv-pro.github.io/logo/CCTV-9.png" group-title="CCTV",CCTV-9
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV超级电影" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png" group-title="NewTV",NewTV超级电影
@@ -46,9 +40,9 @@ http://stream.smntv.cn/smtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",三明新闻综合 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上虞1新闻综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上虞3新商都 (720p) [Not 24/7]
@@ -68,9 +62,9 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",优视 (720p) [Not 24/7]
 http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",半岛新闻 (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京信息 (720p)
@@ -169,8 +163,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视",天津卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",广东卫视
