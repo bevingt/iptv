@@ -17,6 +17,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
 http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="CCTV",CCTV-5+
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="CCTV",CCTV-5
@@ -59,8 +61,6 @@ http://223.247.33.124:1935/live/zonghe/playlist.m3u8
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中視新聞 (1080p) [Geo-blocked]
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",云南 Ⅰ 红河综合台 (1080p)
-http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",优视 (720p)
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",优视 (720p) [Not 24/7]
@@ -81,6 +81,8 @@ http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京教科 (720p) [Not 24/7]
 http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京新闻综合 (720p)
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京生活 (720p)
 http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁公共 (720p) [Not 24/7]
@@ -125,8 +127,6 @@ http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",海盐新闻 (720p)
 http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",湘潭新闻综合 (720p)
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ChuzhouNewsChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="其它",滁州市广播电视台 新闻综合频道 (1080p)
 http://live.cztv.cc:85/live/xwpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",漳州新闻综合 (720p) [Not 24/7]
@@ -137,6 +137,8 @@ http://live.sjsrm.com/bjsjs/sd/live.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",纪实人文 (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",罗山电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="狗狗宠物" tvg-logo="https://iptv-pro.github.io/logo/%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png" group-title="其它",美国狗狗宠物
 https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",萧山新闻综合 (720p) [Not 24/7]
@@ -171,8 +173,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视",广东卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",延边卫视
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视
