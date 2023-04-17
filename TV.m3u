@@ -46,9 +46,9 @@ http://stream.smntv.cn/smtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",三明新闻综合 (720p) [Not 24/7]
 http://stream.smntv.cn/smtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="其它",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上虞1新闻综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上虞3新商都 (720p) [Not 24/7]
@@ -66,9 +66,9 @@ http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",优视 (720p) [Not 24/7]
 http://1-fss24-s0.streamhoster.com/lv_uchannel/broadcast1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",北京紀實 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",半岛新闻 (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京信息 (720p)
@@ -81,10 +81,6 @@ http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京教科 (720p) [Not 24/7]
 http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京新闻综合 (720p)
-http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京生活 (720p)
-http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁公共 (720p) [Not 24/7]
 http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁影视娱乐 (720p) [Not 24/7]
@@ -159,8 +155,6 @@ http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",东南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",东方卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视",天津卫视
