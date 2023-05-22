@@ -33,8 +33,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京信息 (720p)
 https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京十八 (720p)
-https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京娱乐 (720p)
 https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京少儿 (720p) [Not 24/7]
@@ -45,6 +43,12 @@ https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京生活 (720p)
 https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁公共 (720p) [Not 24/7]
+https://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁新闻综合 (720p) [Not 24/7]
+https://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁都市生活 (720p) [Not 24/7]
+https://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",台視新聞 (1080p) [Not 24/7]
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",吉州新聞綜合 (1080p)
@@ -107,8 +111,6 @@ http://stream2.xiancity.cn/xatv1/playlist.m3u8
 http://221.238.209.44:81/hls/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TongzhouTV.cn" tvg-logo="https://i.imgur.com/fXXongR.png" group-title="其它",通州电视台 (720p)
 http://pull.dayuntongzhou.com/live/tztv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",金昌綜合頻道 (720p) [Geo-blocked]
-http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",靖江新闻綜合 (720p) [Not 24/7]
 http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",靖江新闻綜合 (720p) [Not 24/7]
