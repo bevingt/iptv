@@ -103,8 +103,6 @@ http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江 Ⅰ 浙江休闲 (720p) [Not 24/7]
 https://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png" group-title="浙江",浙江 Ⅰ 浙江国际
-https://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png" group-title="浙江",浙江 Ⅰ 浙江少儿
 https://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江 Ⅰ 浙江教育 (720p) [Not 24/7]
