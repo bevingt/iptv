@@ -15,8 +15,6 @@ http://183.196.25.171:808/hls/93/index.m3u8
 http://183.196.25.171:808/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-3" tvg-logo="https://iptv-pro.github.io/logo/CCTV-3.png" group-title="CCTV",CCTV-3
 http://183.196.25.171:808/hls/75/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-5" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="CCTV",CCTV-5
-http://1.85.0.62:808/hls/503/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-6" tvg-logo="https://iptv-pro.github.io/logo/CCTV-6.png" group-title="CCTV",CCTV-6
 http://1.85.0.62:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="https://iptv-pro.github.io/logo/CCTV-7.png" group-title="CCTV",CCTV-7
