@@ -1,4 +1,30 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/iptv-pro/iptv-pro.github.io@main/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-10" tvg-logo="https://iptv-pro.github.io/logo/CCTV-10.png" group-title="CCTV",CCTV-10
+http://183.196.25.171:808/hls/10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-11" tvg-logo="https://iptv-pro.github.io/logo/CCTV-11.png" group-title="CCTV",CCTV-11
+http://183.196.25.171:808/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-12" tvg-logo="https://iptv-pro.github.io/logo/CCTV-12.png" group-title="CCTV",CCTV-12
+http://183.196.25.171:808/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-13" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="CCTV",CCTV-13
+http://183.196.25.171:808/hls/13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-14" tvg-logo="https://iptv-pro.github.io/logo/CCTV-14.png" group-title="CCTV",CCTV-14
+http://183.196.25.171:808/hls/14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="CCTV",CCTV-17
+http://183.196.25.171:808/hls/93/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-2" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="CCTV",CCTV-2
+http://183.196.25.171:808/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-3" tvg-logo="https://iptv-pro.github.io/logo/CCTV-3.png" group-title="CCTV",CCTV-3
+http://183.196.25.171:808/hls/75/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="CCTV",CCTV-5
+http://1.85.0.62:808/hls/503/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-6" tvg-logo="https://iptv-pro.github.io/logo/CCTV-6.png" group-title="CCTV",CCTV-6
+http://1.85.0.62:808/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="https://iptv-pro.github.io/logo/CCTV-7.png" group-title="CCTV",CCTV-7
+http://183.196.25.171:808/hls/7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-8" tvg-logo="https://iptv-pro.github.io/logo/CCTV-8.png" group-title="CCTV",CCTV-8
+http://183.196.25.171:808/hls/77/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-9" tvg-logo="https://iptv-pro.github.io/logo/CCTV-9.png" group-title="CCTV",CCTV-9
+http://183.196.25.171:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="其它",Angel TV Chinese (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20TV.png" group-title="其它",Bloomberg TV Asia Live Event
@@ -21,8 +47,6 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 https://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",半岛新闻 (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="华数" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%8E%E6%95%B0.png" group-title="其它",华数
-http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京信息 (720p)
 https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京十八 (720p)
@@ -89,8 +113,6 @@ https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",蕭山生活頻道 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",西青新闻综合 (1080p) [Not 24/7]
-http://221.238.209.44:81/hls/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TongzhouTV.cn" tvg-logo="https://i.imgur.com/fXXongR.png" group-title="其它",通州电视台 (720p)
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",靖江新闻綜合 (720p) [Not 24/7]
