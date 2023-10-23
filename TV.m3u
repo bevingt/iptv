@@ -1,26 +1,4 @@
 #EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/iptv-pro/iptv-pro.github.io@main/epg/epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-10" tvg-logo="https://iptv-pro.github.io/logo/CCTV-10.png" group-title="CCTV",CCTV-10
-http://183.196.25.171:808/hls/10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-11" tvg-logo="https://iptv-pro.github.io/logo/CCTV-11.png" group-title="CCTV",CCTV-11
-http://183.196.25.171:808/hls/11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-12" tvg-logo="https://iptv-pro.github.io/logo/CCTV-12.png" group-title="CCTV",CCTV-12
-http://183.196.25.171:808/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-13" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="CCTV",CCTV-13
-http://183.196.25.171:808/hls/13/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-14" tvg-logo="https://iptv-pro.github.io/logo/CCTV-14.png" group-title="CCTV",CCTV-14
-http://183.196.25.171:808/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-15" tvg-logo="https://iptv-pro.github.io/logo/CCTV-15.png" group-title="CCTV",CCTV-15
-http://183.196.25.171:808/hls/15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="CCTV",CCTV-17
-http://183.196.25.171:808/hls/93/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-2" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="CCTV",CCTV-2
-http://183.196.25.171:808/hls/2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-3" tvg-logo="https://iptv-pro.github.io/logo/CCTV-3.png" group-title="CCTV",CCTV-3
-http://183.196.25.171:808/hls/75/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="https://iptv-pro.github.io/logo/CCTV-7.png" group-title="CCTV",CCTV-7
-http://183.196.25.171:808/hls/7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-9" tvg-logo="https://iptv-pro.github.io/logo/CCTV-9.png" group-title="CCTV",CCTV-9
-http://183.196.25.171:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="其它",Angel TV Chinese (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20TV.png" group-title="其它",Bloomberg TV Asia Live Event
@@ -35,10 +13,6 @@ https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上虞經濟文化 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中天新聞 (1080p) [Not 24/7]
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",中視新聞 (1080p) [Geo-blocked]
-http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",云南 Ⅰ 红河综合台 (1080p)
 https://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",半岛新闻 (1080p)
@@ -57,12 +31,6 @@ https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 https://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁影视娱乐 (720p) [Not 24/7]
 https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁新闻综合 (720p) [Not 24/7]
-https://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁都市生活 (720p) [Not 24/7]
-https://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",台視新聞 (1080p) [Not 24/7]
-http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",奇妙電視 (720p)
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",孟州电视台 (1080p) [Not 24/7]
