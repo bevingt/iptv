@@ -3,6 +3,8 @@
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-10" tvg-logo="https://iptv-pro.github.io/logo/CCTV-10.png" group-title="CCTV",CCTV-10
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-13" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="CCTV",CCTV-13
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-14" tvg-logo="https://iptv-pro.github.io/logo/CCTV-14.png" group-title="CCTV",CCTV-14
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-15" tvg-logo="https://iptv-pro.github.io/logo/CCTV-15.png" group-title="CCTV",CCTV-15
@@ -12,9 +14,9 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="CCTV",CCTV-2
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="CCTV",CCTV-5+
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="https://iptv-pro.github.io/logo/CCTV-7.png" group-title="CCTV",CCTV-7
@@ -27,6 +29,8 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/inde
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20TV.png" group-title="其它",Bloomberg TV Asia Live Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BreadTV.cn" tvg-logo="https://i.imgur.com/UR9vEIN.png" group-title="其它",Bread TV面包台 (720p)
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="其它",EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBRICSChinese.cn" tvg-logo="https://i.imgur.com/896132Z.png" group-title="其它",TV BRICS Chinese (1080p) [Not 24/7]
@@ -59,8 +63,6 @@ https://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 https://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",奇妙電視 (720p)
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",孟州电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",嵊州综合 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
