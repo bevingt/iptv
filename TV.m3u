@@ -7,10 +7,6 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/inde
 http://183.196.25.171:808/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-12" tvg-logo="https://iptv-pro.github.io/logo/CCTV-12.png" group-title="CCTV",CCTV-12
 http://183.196.25.171:808/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-13" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="CCTV",CCTV-13
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-14" tvg-logo="https://iptv-pro.github.io/logo/CCTV-14.png" group-title="CCTV",CCTV-14
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="CCTV",CCTV-17
 http://183.196.25.171:808/hls/93/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="CCTV",CCTV-2
@@ -25,8 +21,6 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/inde
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="CCTV",CCTV-5+
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="https://iptv-pro.github.io/logo/CCTV-7.png" group-title="CCTV",CCTV-7
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-8" tvg-logo="https://iptv-pro.github.io/logo/CCTV-8.png" group-title="CCTV",CCTV-8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9" tvg-logo="https://iptv-pro.github.io/logo/CCTV-9.png" group-title="CCTV",CCTV-9
@@ -69,6 +63,8 @@ https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 https://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南宁都市生活 (720p) [Not 24/7]
 https://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",奇妙電視 (720p)
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",孟州电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",宿州公共 (1080p) [Not 24/7]
@@ -115,6 +111,8 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",红牛REDBULL TV (720p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",罗山电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",萧山新闻综合 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",蓬安新闻综合 (720p) [Not 24/7]
@@ -131,8 +129,8 @@ http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",海南卫视
+http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江 Ⅰ 浙江休闲 (720p) [Not 24/7]
 https://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png" group-title="浙江",浙江 Ⅰ 浙江国际
@@ -151,8 +149,6 @@ https://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江6套 (1080p) [Not 24/7]
 https://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江公共 (1080p) [Not 24/7]
-https://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png" group-title="浙江",浙江国际
 https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png" group-title="浙江",浙江少儿
