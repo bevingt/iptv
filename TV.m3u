@@ -9,8 +9,6 @@ http://183.196.25.171:808/hls/11/index.m3u8
 http://183.196.25.171:808/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-13" tvg-logo="https://iptv-pro.github.io/logo/CCTV-13.png" group-title="CCTV",CCTV-13
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-14" tvg-logo="https://iptv-pro.github.io/logo/CCTV-14.png" group-title="CCTV",CCTV-14
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="CCTV",CCTV-17
 http://183.196.25.171:808/hls/93/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="CCTV",CCTV-2
@@ -18,9 +16,9 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/inde
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-3" tvg-logo="https://iptv-pro.github.io/logo/CCTV-3.png" group-title="CCTV",CCTV-3
 http://183.196.25.171:808/hls/75/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="CCTV",CCTV-4
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="CCTV",CCTV-5
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="https://iptv-pro.github.io/logo/CCTV-7.png" group-title="CCTV",CCTV-7
@@ -133,8 +131,8 @@ http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳" tvg-logo="https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3.png" group-title="卫视",深圳卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江 Ⅰ 浙江休闲 (720p) [Not 24/7]
 https://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png" group-title="浙江",浙江 Ⅰ 浙江国际
