@@ -31,6 +31,8 @@ https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京娱乐 (720p)
 https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",奇妙電視 (720p)
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",孟州电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",宿州公共 (1080p) [Not 24/7]
@@ -45,8 +47,6 @@ https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",巴中综合 (1080p) [Not 24/7]
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",建安电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",文山综合 (1080p) [Not 24/7]
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",新昌休闲影视 (1080p) [Not 24/7]
