@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="ABNChina.us" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="其它",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="其它",BBC News Asia Pacific (720p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20TV.png" group-title="其它",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20TV.png" group-title="其它",Bloomberg TV Asia Live Event
@@ -93,6 +93,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",萧山新闻综合 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",蕭山生活頻道 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",西青新闻综合 (1080p) [Not 24/7]
 http://221.238.209.44:81/hls/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TongzhouTV.cn" tvg-logo="https://i.imgur.com/fXXongR.png" group-title="其它",通州电视台 (720p)
