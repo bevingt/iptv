@@ -7,8 +7,6 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://iptv-pro.github.io/logo/Bloomberg%20TV.png" group-title="其它",Bloomberg TV Asia Live Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BreadTV.cn" tvg-logo="https://i.imgur.com/UR9vEIN.png" group-title="其它",Bread TV面包台 (720p)
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="其它",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="其它",EWTN Asia-Pacific (720p) [Not 24/7]
@@ -25,8 +23,6 @@ https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",上虞經濟文化 (720p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",云南 Ⅰ 红河综合台 (1080p)
-https://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",半岛新闻 (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",南京信息 (720p)
@@ -59,8 +55,6 @@ https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",建安电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",文山综合 (1080p) [Not 24/7]
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",新昌休闲影视 (1080p) [Not 24/7]
 https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",新昌新聞綜合 (1080p) [Not 24/7]
