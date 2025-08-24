@@ -11,12 +11,12 @@
 ### URL 后追加 UA: 工具箱、IPTV-API、Pixman 等
 `https://gh-proxy.com/https://raw.githubusercontent.com/bevingt/iptv/refs/heads/main/iptv_ua.m3u`
 
-## EGP
+## [EGP](https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml)
 `https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml`
 
 ## 全平台IPTV播放器
-iptvnator:
+[iptvnator](https://github.com/4gray/iptvnator/releases):
 `https://github.com/4gray/iptvnator/releases`
 
-## 影视仓IPTV直播源
-`https://raw.githubusercontent.com/bevingt/iptv/refs/heads/main/tvbox_iptv.json`
+## [影视仓IPTV直播源](https://gh-proxy.com/https://raw.githubusercontent.com/bevingt/iptv/refs/heads/main/tvbox_iptv.txt)
+`https://gh-proxy.com/https://raw.githubusercontent.com/bevingt/iptv/refs/heads/main/tvbox_iptv.txt`
