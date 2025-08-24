@@ -11,7 +11,7 @@
 ### URL 后追加 UA: 工具箱、IPTV-API、Pixman 等
 `https://gh-proxy.com/https://raw.githubusercontent.com/bevingt/iptv/refs/heads/main/iptv_ua.m3u`
 ### Easy TV订阅
-`https://gh-proxy.net/https://https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u?ua=okHttp/Mod-1.1.0`
+`https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u?ua=okHttp/Mod-1.1.0`
 
 ## [EGP](https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml)
 `https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml`
