@@ -18,5 +18,3 @@
 [iptvnator](https://github.com/4gray/iptvnator/releases):
 `https://github.com/4gray/iptvnator/releases`
 
-## [影视仓IPTV直播源](https://gh-proxy.com/https://raw.githubusercontent.com/bevingt/iptv/refs/heads/main/tvbox_iptv.txt)
-`https://gh-proxy.com/https://raw.githubusercontent.com/bevingt/iptv/refs/heads/main/tvbox_iptv.txt`
