@@ -14,7 +14,7 @@
 ## [EGP](https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml)
 `https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml`
 
-## 全平台IPTV播放器
-[iptvnator](https://github.com/4gray/iptvnator/releases):
-`https://github.com/4gray/iptvnator/releases`
+## Easy TV Live App
+[Easy TV Live App](https://github.com/aiyakuaile/easy_tv_live/releases):
+`https://github.com/aiyakuaile/easy_tv_live`
 
