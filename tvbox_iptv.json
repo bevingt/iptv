@@ -4,7 +4,7 @@
     {
       "name": "IPTV",
       "type": 0,
-      "url": "https://gh-proxy.comhttps://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u",
       "ua": "okHttp/Mod-1.1.0"
     }
   ],
