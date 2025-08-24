@@ -17,3 +17,6 @@
 ## 全平台IPTV播放器
 iptvnator:
 `https://github.com/4gray/iptvnator/releases`
+
+## 影视仓多仓订阅
+`https://gh-proxy.com/https://raw.githubusercontent.com/bevingt/iptv/refs/heads/main/sub.json`
