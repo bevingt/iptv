@@ -6,7 +6,6 @@ import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 iptv_vlcopt_file = os.path.join(BASE_DIR, 'iptv_vlcopt.m3u')  # VLC / Kodi / PotPlayer 专用
 iptv_ua_file = os.path.join(BASE_DIR, 'iptv_ua.m3u')          # URL 后追加 UA 的版本
-iptv_tvbox_file = os.path.join(BASE_DIR, 'iptv_tvbox.txt')    # 影视仓 / TVBox 可用 TXT 文件
 
 # 统一 UA 参数
 ua = 'okHttp/Mod-1.1.0'
