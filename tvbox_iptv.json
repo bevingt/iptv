@@ -4,7 +4,7 @@
     {
       "name": "IPTV",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bevingt/iptv/main/iptv_vlcopt.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/bevingt/iptv@main/iptv_vlcopt.m3u",
       "ua": "okHttp/Mod-1.1.0"
     }
   ],
