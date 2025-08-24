@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8 #UA=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8 #user-agent=okHttp/Mod-1.1.0
+https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8 #UA=okHttp/Mod-1.1.0
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="其他",重温经典
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8 #user-agent=okHttp/Mod-1.1.0
+https://gdcucc.v1.mk/gdcucc/cwjd.m3u8 #UA=okHttp/Mod-1.1.0
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="其他",五星体育
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8 #UA=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视", CCTV1综合
-https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=1930e12943ef88ec79d1a88b546276a541a4490f2c2f26c3a308e1230753bd92d8258a80b1fae597c7dce46ee5d01c0e9bd3472f120eb22c797cdd62c0f4001f4bb375e9128dddef9aa1e9d174 #user-agent=okHttp/Mod-1.1.0
+https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=1930e12943ef88ec79d1a88b546276a541a4490f2c2f26c3a308e1230753bd92d8258a80b1fae597c7dce46ee5d01c0e9bd3472f120eb22c797cdd62c0f4001f4bb375e9128dddef9aa1e9d174 #UA=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视", CCTV2财经
 https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=7dad0391b8799742c1b131bbaf7b4c452c75ea578dc7303bd38ad7962bc967219af005afaf6febe2411b350a0ee0189e333839dacfe3a1a4982df8675f096c77ff9b8d11efb0f73ebc04827367 #UA=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="央视", CCTV3综艺
@@ -64,7 +64,7 @@ https://mursor.ottiptv.cc/migu/708869532.m3u8?migutoken=84aa765d1cca2b03ef881e1a
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/196/407/202204010052_1642124762081_H169_1080.jpg" group-title="央视", CGTN
 https://mursor.ottiptv.cc/migu/609017205.m3u8?migutoken=6603c04368a6546ef54958d7ae6334ed3b171cb38046bdac20a8d2fc3eaf144d2bbac26b5a480b8c1cec02a009ba584ff2cc6fdd7da0bc9b59ddec0fa6ced13d40d296b2b038421afd3b00aebf #UA=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H169_1080.jpg" group-title="卫视", 东方卫视
-https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=21f2e527d0e8d23e30acb04a8ee258cbdb37f5e0fae49373a96a11248c15f8069e2688ae493df99929ff5f6546006e895bc889d9fae9046179681bd37d29675c34741e8148b87aac81a6d9c2c6 #user-agent=okHttp/Mod-1.1.0
+https://mursor.ottiptv.cc/migu/651632648.m3u8?migutoken=21f2e527d0e8d23e30acb04a8ee258cbdb37f5e0fae49373a96a11248c15f8069e2688ae493df99929ff5f6546006e895bc889d9fae9046179681bd37d29675c34741e8148b87aac81a6d9c2c6 #UA=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/199/408/202104022140_5100156802_H169_1080.jpg" group-title="卫视", 江苏卫视
 https://mursor.ottiptv.cc/migu/623899368.m3u8?migutoken=fcb2aa4f4303a9805b9bf3437d2f2fb104e88cc53f077927ff813d993de821668514fdb793f7d918bd36a95c1777990e31e0e0f725855cbce8bd66978074d301b97ec94e4d1ceb02ffbe087851 #UA=okHttp/Mod-1.1.0
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/428/795/202107191524_2202428795_H169_1080.jpg" group-title="卫视", 广东卫视
