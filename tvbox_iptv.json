@@ -1,0 +1,14 @@
+{
+  "spider": "",
+  "wallpaper": "https://picsum.photos/1280/720",
+  "sites": [],
+  "lives": [
+    {
+      "name": "IPTV",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bevingt/iptv/main/iptv_vlcopt.m3u",
+      "ua": "okHttp/Mod-1.1.0"
+    }
+  ],
+  "parses": []
+}
