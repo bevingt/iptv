@@ -8,7 +8,7 @@ iptv_vlcopt_file = os.path.join(BASE_DIR, 'iptv_vlcopt.m3u')  # VLC / Kodi / Pot
 iptv_ua_file = os.path.join(BASE_DIR, 'iptv_ua.m3u')          # URL 后追加 UA 的版本
 
 # 统一 UA 参数
-ua = 'okHttp/Mod-1.1.0'
+ua = 'okHttp/Mod-1.2.0'
 
 # IPTV 源链接
 url = "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u"
