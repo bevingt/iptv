@@ -34,7 +34,7 @@ with open(iptv_vlcopt_file, "w", encoding="utf-8") as f:
 # ================== 版本2：在 URL 后追加 #UA=（IPTV-API / 工具箱 / Pixman） ==================
 ua_text = re.sub(
     r'^(https?://.+\.m3u8\S*)$',
-    fr'\1?ua={ua}',
+    fr'\1 #ua={ua}',
     original,
     flags=re.MULTILINE
 )
